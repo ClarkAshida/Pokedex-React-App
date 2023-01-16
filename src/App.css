@@ -240,4 +240,8 @@ nav {
   .pokemon-type-text{
     width: 60px;
   }
+  .pokemon-image{
+    width: 80px;
+    height: 80px;
+  }
 }
