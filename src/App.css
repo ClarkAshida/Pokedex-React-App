@@ -230,3 +230,14 @@ nav {
 .steel{
   background-color: #B7B7CE;
 }
+
+@media screen and (max-width: 850px) {
+  .pokemon-type-text{
+    width: 50px;
+  }
+}
+@media screen and (max-width: 654px) {
+  .pokemon-type-text{
+    width: 60px;
+  }
+}
