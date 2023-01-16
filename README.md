@@ -18,7 +18,7 @@
 
 ## 🚀 Installation
 
-$ git clone https://github.com/ClarkAshida/Pokedex-React-App.git
+$ git clone https://github.com/ClarkAshida/Pokedex-React-App
 $ cd Pokedex-React-App
 $ npm install
 $ npm start
